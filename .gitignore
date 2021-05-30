@@ -1,0 +1,8 @@
+# Makefile config
+config.mk
+
+# Built files
+build/
+
+# Toolchain
+toolchain/
